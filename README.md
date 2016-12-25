@@ -1,0 +1,1 @@
+# -script-src-https-gist.github.com-nomkhonwaan-87a9158be4ef70af315efbc4173d0757.js-script-
